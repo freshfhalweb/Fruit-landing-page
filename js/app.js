@@ -67,5 +67,5 @@ function viewMoreBlog(){
 		event.preventDefault();
 		$(this).ekkoLightbox();
 	});
-})(jQuery); 
+}); 
 
